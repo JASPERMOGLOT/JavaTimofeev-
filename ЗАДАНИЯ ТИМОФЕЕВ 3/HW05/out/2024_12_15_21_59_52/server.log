@@ -1,0 +1,4 @@
+[12-15 21:59:52,527, 586] main.Main Starting at http://127.0.0.1:8080
+[12-15 21:59:52,609, 668] main.Main Server started
+[12-15 21:59:53,458, 1517] servlets.AdminPageServlet Limit: 10. Count 0
+[12-15 21:59:53,542, 1601] servlets.AdminPageServlet Limit: 15. Count 0
